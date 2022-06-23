@@ -8,6 +8,6 @@ Currently pursuing a Degree in Computer Engineering at Insper and adventuring on
 </div>
 
 <div style="display: inline_block">
-    <img heigth = '180em' width ='455em' src = "https://github-readme-stats.vercel.app/api?username=talesitf&theme=noctis_minimus&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img heigth = '170em' width ='450em' src = "https://github-readme-stats.vercel.app/api?username=talesitf&theme=noctis_minimus&show_icons=true&include_all_commits=true&count_private=true"/>
     <img height="180em" width ='400em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesitf&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div>
